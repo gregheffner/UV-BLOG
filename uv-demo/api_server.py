@@ -1,3 +1,10 @@
+# /// script
+# requires-python = ">=3.13"
+# dependencies = [
+#     "flask",
+# ]
+# ///
+
 # uv: requirements = ["flask"]
 
 import random
