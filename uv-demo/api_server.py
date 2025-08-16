@@ -5,8 +5,6 @@
 # ]
 # ///
 
-# uv: requirements = ["flask"]
-
 import random
 
 from flask import Flask
